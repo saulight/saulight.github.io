@@ -919,15 +919,15 @@ h6 {
       display: none; }
     .post .post-reward .qr-code {
       display: none;
-      margin-top: 15px; }
+      margin: 10px; }
       .post .post-reward .qr-code .qr-code-image {
         display: inline-block;
-        min-width: 120px;
+        min-width: 100px;
         width: 30%; }
       .post .post-reward .qr-code .image {
-        width: 120px;
-        height: 120px;
-        margin-left: 15px; }
+        width: 100px;
+        height: 100px;
+        margin: 10px; }
   .post .post-footer {
     margin-top: 20px;
     border-top: 1px solid #e6e6e6;
