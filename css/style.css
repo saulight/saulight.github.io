@@ -922,12 +922,13 @@ h6 {
       margin: 10px; }
       .post .post-reward .qr-code .qr-code-image {
         display: inline-block;
-        min-width: 100px;
-        width: 30%; }
+        min-width: 150px;
+        width: 30%;
+        margin: 30px; }
       .post .post-reward .qr-code .image {
-        width: 100px;
-        height: 100px;
-        margin: 10px; }
+        width: 150px;
+        height: 150px;
+        margin: 30px; }
   .post .post-footer {
     margin-top: 20px;
     border-top: 1px solid #e6e6e6;
